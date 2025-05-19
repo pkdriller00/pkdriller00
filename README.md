@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/I Am %20A DARK- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/I Am %20A PKDRILLER- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 
 
@@ -20,7 +20,7 @@
   Hello, I'm PKDRILLER . I develop WHATSAPP BOTS , websites most of the time! I'm currently not working on anything important but planning on making technology better.
 </p>
 
-<a href="https://imgbb.com/"><img src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif" alt="😂" border="20"></a><br/></a>
+<a href="https://imgbb.com/"><img src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif" alt="https://files.catbox.moe/3p3edj.jpg" border="20"></a><br/></a>
 </p>
 
 
